@@ -1,0 +1,1 @@
+This week the Spell Shop's one Spell class becomes an abstract base class with a subclass for each spell. All the Examples are on the Lecture 5 slides. Then you make your CA's Location class abstract, which is the main new requirement in CA2.
